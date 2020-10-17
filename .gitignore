@@ -58,3 +58,7 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+Assets/_TerrainAutoUpgrade.meta
+Assets/_TerrainAutoUpgrade/*
+Assets/Fantasy Forest Environment Free Sample.meta
+Assets/Fantasy Forest Environment Free Sample/*
